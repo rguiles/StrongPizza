@@ -1,0 +1,1 @@
+Self-organized full stack pizza topping managment application
