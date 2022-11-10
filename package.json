@@ -1,0 +1,22 @@
+{
+  "name": "strongpizza",
+  "version": "1.0.0",
+  "description": "self-organized full stack pizza topping managment application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rguiles/StrongPizza.git"
+  },
+  "author": "Guiles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rguiles/StrongPizza/issues"
+  },
+  "homepage": "https://github.com/rguiles/StrongPizza",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
