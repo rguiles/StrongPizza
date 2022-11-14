@@ -1,4 +1,8 @@
-Self-organized full stack pizza topping managment application
-- Initial build with MERN stack framework
+Self-organized full stack pizza topping management application
 
-Note: Express npm install downloaded all dependencies, (may remove later)
+Process:
+- Initial build with MERN stack framework
+- Setup front/back end connections & heroku deployment
+- Researched how to organize and connect html/css/js files
+
+Note: npm i express & npx react downloaded dependencies; will be hidden in .gitignore
