@@ -1,8 +1,0 @@
-class Toppings
-{
-    private:
-
-    
-    public:
-    
-};
