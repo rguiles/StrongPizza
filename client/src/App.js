@@ -2,6 +2,11 @@ import React from "react";
 import logo from "./pizza.png";
 import "./App.css";
 
+// const express = require("express");
+// const App = express();
+// const connectDB = require(".//config/db");
+// connectDB();
+
 function App() {
   const [data, setData] = React.useState(null);
 
@@ -22,7 +27,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Make Pizza
+         Make Pizza
         </a>
       </header>
     </div>
