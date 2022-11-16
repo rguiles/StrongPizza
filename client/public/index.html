@@ -10,7 +10,7 @@
     />
     <link rel="icon" href="assets/pizza.png" />
     <!-- manifest.json provides metadata used when web app is installed on users device -->
-    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <link rel="manifest" href="manifest.json" />
     <!-- bootstrap css cdn -->
     <link
       rel="stylesheet"
@@ -29,12 +29,11 @@
   </head>
 
   <body>
-    <button onclick="managerButton()">Manager Portal</button>
+    <button id="manButton">Manager Portal</button>
     <script src="index.js"></script>
     <button onclick="chefButton()">Chef Portal</button>
     <div id="root"></div>
 
-    
     <!-- bootstrap JS cdn -->
     <script
       src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
