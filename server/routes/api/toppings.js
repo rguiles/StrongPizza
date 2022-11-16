@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 
 // Load Topping model
-const Topping = require('../../models/Topping');
+const Topping = require('../../../models/Topping');
 
 // @route GET api/toppings/test
 // @description tests toppings route
